@@ -14,7 +14,6 @@
 <br>
 <br>
 <hr>
-<h3 align="center">GitHub Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apaulurbiztondo&show_icons=true&locale=en" alt="apaulurbiztondo" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apaulurbiztondo&show_icons=true&locale=en&layout=compact" alt="apaulurbiztondo" /></p>
