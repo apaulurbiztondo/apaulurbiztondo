@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="380" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Spring Framework and AWS microservices**
+- 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me **allanpaulourbiztondo@gmail.com**
 
 <p align="left"></p>
